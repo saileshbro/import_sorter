@@ -15,4 +15,4 @@
 - << : *dart
   id: flutter-import-sorter
   name: Flutter Import Sorter
-  entry: flutter pub run import_sorter:main
+  entry: fvm flutter pub run import_sorter:main
